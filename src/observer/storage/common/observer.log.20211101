@@ -1,0 +1,75 @@
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 204]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 66]>>(Re)Starting State: Pid: 164078 Time: Mon Nov  1 04:30:29 2021
+
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 68]>>The process Name is observer
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_event_history 201]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_thread_pool 218]>>Configuration hasn't set ThreadPools
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp instantiate 415]>>Failed to init thread pool
+
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 73]>>SedaConfig: unable to initialize seda stages
+[2021-11-1 4:30:29 pid:164078 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 212]>>Failed to init seda configuration!
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 204]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 66]>>(Re)Starting State: Pid: 164200 Time: Mon Nov  1 04:32:14 2021
+
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 68]>>The process Name is observer
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_event_history 201]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_thread_pool 218]>>Configuration hasn't set ThreadPools
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp instantiate 415]>>Failed to init thread pool
+
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 73]>>SedaConfig: unable to initialize seda stages
+[2021-11-1 4:32:14 pid:164200 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 212]>>Failed to init seda configuration!
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 204]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 66]>>(Re)Starting State: Pid: 164325 Time: Mon Nov  1 04:33:39 2021
+
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 68]>>The process Name is observer
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_event_history 201]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_thread_pool 218]>>Configuration hasn't set ThreadPools
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp instantiate 415]>>Failed to init thread pool
+
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 73]>>SedaConfig: unable to initialize seda stages
+[2021-11-1 4:33:39 pid:164325 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 212]>>Failed to init seda configuration!
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 204]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 66]>>(Re)Starting State: Pid: 168822 Time: Mon Nov  1 04:55:43 2021
+
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 68]>>The process Name is observer
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_event_history 201]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_thread_pool 218]>>Configuration hasn't set ThreadPools
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp instantiate 415]>>Failed to init thread pool
+
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 73]>>SedaConfig: unable to initialize seda stages
+[2021-11-1 4:55:43 pid:168822 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 212]>>Failed to init seda configuration!
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 204]>>Output configuration 
+Begin dump configuration
+[]
+
+Finish dump configuration 
+
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 66]>>(Re)Starting State: Pid: 176379 Time: Mon Nov  1 05:31:50 2021
+
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 68]>>The process Name is observer
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  INFO: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_event_history 201]>>Successfully init_event_history, EventHistory:0, MaxEventHops:100
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp init_thread_pool 218]>>Configuration hasn't set ThreadPools
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/seda_config.cpp instantiate 415]>>Failed to init thread pool
+
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/deps/common/seda/init.cpp init_seda 73]>>SedaConfig: unable to initialize seda stages
+[2021-11-1 5:31:50 pid:176379 tid:7ffff795d100  ERROR: /home/z/z/cpp/miniob_competition/src/observer/init.cpp init 212]>>Failed to init seda configuration!
